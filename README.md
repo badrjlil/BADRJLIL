@@ -1,18 +1,18 @@
 <!-- Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Badr+JLIL;Data+Scientist+%7C+AI+Engineer;Final-Year+Computer+Engineering+Student;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Badr+JLIL;Software+Engineer+%7C+AI+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year Computer Engineering student at [IGA Casablanca](https://www.iga.ac.ma/)  
-- 🧠 Passionate about Artificial Intelligence & Data Science  
-- 🛠️ Building real-world solutions using Machine Learning & Computer Vision  
-- 🧪 Working on: XGBoost Demand Forecasting, Driver Safety AI, and Gesture Interfaces  
+- 🎓 Computer Engineer, graduated from [IGA Casablanca](https://www.iga.ac.ma/)  
+- 💡 Passionate about Software Engineering, System Design, and Smart Automation  
+- 🛠️ Building efficient, scalable, and intelligent applications  
+- 🧪 Currently exploring: Backend architectures, automation tools, and system optimization  
 - 🌍 Languages: Arabic 🇲🇦 | English 🇬🇧 | French 🇫🇷  
-- 💡 Motto: *Keep building, keep learning.*
+- ⚙️ Motto: *Keep building, keep improving.*
 
 ---
 
@@ -21,23 +21,23 @@
 **Languages**:  
 `Python` `Java` `SQL` `JavaScript`
 
-**AI & Data Science**:  
-`TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV` `YOLO` `Pandas` `NumPy` `Matplotlib`,...
+**Software Engineering & Backend**:  
+`Spring Boot` `ASP.NET` `JEE` `REST API` `Microservices`
 
-**Big Data & DBs**:  
-`Hadoop` `Hive` `Sqoop`,...
+**Databases & Big Data**:  
+`MySQL` `PostgreSQL` `Oracle` `Hadoop` `Hive` `Sqoop`
 
-**Web & Tools**:  
-`Spring Boot` `ASP.NET` `JEE` `Angular`,...
+**Tools & Frameworks**:  
+`Docker` `Git` `Angular` `VMware` `Figma` `Power BI`
 
 ---
 
 ## 🚀 Projects Highlights
 
-- 🛡️ **Driver Drowsiness & Phone Use Detection** – Real-time alert system using CV + ML  
-- 🤖 **AI-Powered Job Search Platform** – Spring Boot + ChatGPT + Smart Recommender  
-- ✋ **Gesture-Controlled Presentations** – Navigate slides using hand gestures  
-- 📈 **Sales Forecasting App** – XGBoost time series model + Streamlit dashboard
+- ⚙️ **Inventory & Order Management System** – Automating stock updates and supplier sync  
+- 💬 **Smart Job Search Platform** – Integrated AI assistant and recommender system  
+- 🖥️ **Custom Business Software for TELCABO** – Real-time data processing and reporting  
+- 🧾 **Forecasting Dashboard** – Streamlit app for automated sales predictions and analysis
 
 ---
 
@@ -49,4 +49,4 @@
 
 ---
 
-> ⚡ *“Building smart systems that make a real-world difference is what drives me.”*
+> ⚡ *“Engineering solutions that bring value and efficiency to real-world systems.”*
