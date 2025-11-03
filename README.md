@@ -1,6 +1,6 @@
 <!-- Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Badr+JLIL;Software+Engineer+%7C+AI+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Badr+JLIL;Software+Engineer+%7C+System+Designer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -20,11 +20,12 @@
 ## 🧑‍💻 About Me
 
 - 🎓 **Computer Engineer**, graduated from [IGA Casablanca](https://www.iga.ac.ma/)  
-- 💡 Passionate about **Software Architecture**, **Backend Development**, and **Automation**  
-- 🧠 Curious problem-solver who enjoys **building efficient, scalable, and maintainable systems**  
-- 🔍 Currently exploring **DevOps practices** and **cloud-native solutions (Docker, CI/CD)**  
+- 💡 Passionate about **Software Architecture**, **Backend Systems**, and **Automation**  
+- 🧠 I design and build **high-performance, scalable, and maintainable software solutions**  
+- 🔍 Currently exploring **Cloud Computing**, **Microservices**, and **DevOps pipelines**  
+- 🛠️ Experienced in **designing data-driven architectures and enterprise applications**  
 - 🌍 Languages: Arabic 🇲🇦 | English 🇬🇧 | French 🇫🇷  
-- ⚙️ Motto: *Keep building, keep improving.*
+- ⚙️ Motto: *Design smart, code clean, deliver value.*
 
 ---
 
@@ -48,9 +49,10 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
-**Tools & DevOps**  
+**DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -58,15 +60,32 @@
 
 ## 🚀 Featured Projects
 
-- ⚙️ **Inventory & Order Management System** – Automated stock updates and supplier synchronization using RESTful APIs.  
-- 💬 **Smart Job Search Platform** – Spring Boot + AI integration for personalized job matching and chat recommendations.  
-- 🧾 **Forecasting Dashboard** – Streamlit-based dashboard integrating predictive models for stock optimization.  
-- 🖥️ **Custom Business Software (TELCABO)** – Desktop solution for managing operations, built for a real client.  
+### 🧾 Inventory & Order Management System
+Automates inventory updates, supplier synchronization, and reporting using RESTful APIs and database integration.
+
+### 💬 Smart Job Search Platform
+Spring Boot web app integrated with AI for job recommendations, resume parsing, and smart chat interaction.
+
+### 🖥️ Custom Business Software (TELCABO)
+End-to-end software for local distribution management, automating reports and daily operations.
+
+### 📊 Forecasting & Analytics Dashboard
+Interactive dashboard for data visualization and predictive insights using Streamlit and Python.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BadrJlil&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadrJlil&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BadrJlil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BadrJlil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadrJlil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+## 🌟 Achievements & Highlights
+
+- 🏆 Completed multiple **enterprise-level software projects** during internships and freelance work  
+- 🧩 Designed and implemented **microservice architectures** for modular backends  
+- 🔧 Built **automated data processing pipelines** for business analytics  
+- 💬 Collaborated with teams under **Agile methodologies** (Scrum, Sprint planning, retrospectives)
 
 ---
 
@@ -86,4 +105,4 @@
 
 ---
 
-> ⚡ *“Engineering solutions that bring value and efficiency to real-world systems.”*
+> ⚡ *“Engineering elegant, scalable systems that create impact — one line of code at a time.”*
