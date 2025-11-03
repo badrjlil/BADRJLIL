@@ -22,8 +22,8 @@
 - 🎓 **Computer Engineer**, graduated from [IGA Casablanca](https://www.iga.ac.ma/)  
 - 💡 Passionate about **Software Architecture**, **Backend Systems**, and **Automation**  
 - 🧠 I design and build **high-performance, scalable, and maintainable software solutions**  
-- 🔍 Currently exploring **Cloud Computing**, **Microservices**, and **DevOps pipelines**  
-- 🛠️ Experienced in **designing data-driven architectures and enterprise applications**  
+- 🔍 Skilled in **backend development, system design, and enterprise application engineering**  
+- 🛠️ Experienced in **designing data-driven architectures and complex software systems**  
 - 🌍 Languages: Arabic 🇲🇦 | English 🇬🇧 | French 🇫🇷  
 - ⚙️ Motto: *Design smart, code clean, deliver value.*
 
