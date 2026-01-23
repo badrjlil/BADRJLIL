@@ -1,0 +1,80 @@
+<svg width="100%" height="300" viewBox="0 0 550 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #1a1b26; }
+    .header { fill: #24283b; }
+    .tab { fill: #1a1b26; }
+    .tab-text { font-family: 'Segoe UI', sans-serif; font-size: 13px; fill: #a9b1d6; }
+    .line-num { font-family: 'Consolas', monospace; font-size: 14px; fill: #414868; text-anchor: end; }
+    .code { font-family: 'Consolas', monospace; font-size: 14px; fill: #a9b1d6; }
+    
+    /* Syntax Highlighting (Tokyo Night) */
+    .keyword { fill: #bb9af7; font-style: italic; }
+    .class { fill: #7dcfff; }
+    .property { fill: #7aa2f7; }
+    .string { fill: #9ece6a; }
+    .comment { fill: #565f89; font-style: italic; }
+    .punct { fill: #89ddff; }
+    
+    /* Window Controls */
+    .close { fill: #ff5f56; }
+    .min { fill: #ffbd2e; }
+    .max { fill: #27c93f; }
+  </style>
+
+  <!-- Window Background -->
+  <rect width="100%" height="100%" rx="8" ry="8" class="bg" />
+  
+  <!-- Header Bar -->
+  <rect width="100%" height="40" rx="8" ry="8" class="header" />
+  <rect y="30" width="100%" height="10" class="header" /> <!-- Square off bottom -->
+  
+  <!-- Window Controls -->
+  <circle cx="20" cy="20" r="6" class="close" />
+  <circle cx="40" cy="20" r="6" class="min" />
+  <circle cx="60" cy="20" r="6" class="max" />
+  
+  <!-- Tab: Badr.kt -->
+  <path d="M 80 40 L 80 10 Q 80 5 85 5 L 200 5 Q 205 5 205 10 L 205 40 Z" class="tab" />
+  <text x="100" y="25" class="tab-text">Badr.kt</text>
+  <rect x="80" y="40" width="125" height="2" fill="#7aa2f7" /> <!-- Active Tab Indicator -->
+
+  <!-- Content Area -->
+  <g transform="translate(15, 70)">
+    
+    <!-- Line Numbers -->
+    <g transform="translate(25, 0)">
+      <text x="0" y="0" class="line-num">1</text>
+      <text x="0" y="20" class="line-num">2</text>
+      <text x="0" y="40" class="line-num">3</text>
+      <text x="0" y="60" class="line-num">4</text>
+      <text x="0" y="80" class="line-num">5</text>
+      <text x="0" y="100" class="line-num">6</text>
+      <text x="0" y="120" class="line-num">7</text>
+      <text x="0" y="140" class="line-num">8</text>
+      <text x="0" y="160" class="line-num">9</text>
+      <text x="0" y="180" class="line-num">10</text>
+    </g>
+
+    <!-- Code -->
+    <g transform="translate(45, 0)">
+      <text x="0" y="0" class="code"><tspan class="keyword">data class</tspan> <tspan class="class">Developer</tspan><tspan class="punct">(</tspan></text>
+      
+      <text x="20" y="20" class="code"><tspan class="keyword">val</tspan> <tspan class="property">name</tspan><tspan class="punct">:</tspan> String <tspan class="punct">=</tspan> <tspan class="string">"Badr JLIL"</tspan><tspan class="punct">,</tspan></text>
+      
+      <text x="20" y="40" class="code"><tspan class="keyword">val</tspan> <tspan class="property">role</tspan><tspan class="punct">:</tspan> String <tspan class="punct">=</tspan> <tspan class="string">"Software Engineer"</tspan><tspan class="punct">,</tspan></text>
+      
+      <text x="20" y="60" class="code"><tspan class="keyword">val</tspan> <tspan class="property">location</tspan><tspan class="punct">:</tspan> String <tspan class="punct">=</tspan> <tspan class="string">"Casablanca, MA"</tspan><tspan class="punct">,</tspan></text>
+      
+      <text x="20" y="80" class="code"><tspan class="keyword">val</tspan> <tspan class="property">stack</tspan><tspan class="punct">:</tspan> List&lt;String&gt; <tspan class="punct">=</tspan> <tspan class="keyword">listOf</tspan><tspan class="punct">(</tspan></text>
+      
+      <text x="40" y="100" class="code"><tspan class="string">"Spring Boot"</tspan><tspan class="punct">,</tspan> <tspan class="string">"Kotlin"</tspan><tspan class="punct">,</tspan></text>
+      <text x="40" y="120" class="code"><tspan class="string">"Python"</tspan><tspan class="punct">,</tspan> <tspan class="string">"Docker"</tspan></text>
+      
+      <text x="20" y="140" class="code"><tspan class="punct">)</tspan><tspan class="punct">,</tspan></text>
+      
+      <text x="20" y="160" class="code"><tspan class="keyword">val</tspan> <tspan class="property">status</tspan><tspan class="punct">:</tspan> String <tspan class="punct">=</tspan> <tspan class="string">"Open to Work 🟢"</tspan></text>
+      
+      <text x="0" y="180" class="code"><tspan class="punct">)</tspan></text>
+    </g>
+  </g>
+</svg>
